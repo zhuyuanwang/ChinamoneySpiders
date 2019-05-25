@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChinaMoneyProject.iml" filepath="$PROJECT_DIR$/.idea/ChinaMoneyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../五一工作/.idea/五一工作.iml" filepath="$PROJECT_DIR$/../../五一工作/.idea/五一工作.iml" />
+    </modules>
+  </component>
+</project>
